@@ -1,4 +1,4 @@
 import numpy as np
 import sklearn
 
-print(np.zeros((3, 6)))
+print(np.zeros((3, 4)))
